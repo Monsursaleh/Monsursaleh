@@ -4,7 +4,11 @@
   College who loves coding and wanted to bring best digital experiecne in web
   technologies.
 </h6>
-<img align="right" src="https://i.gifer.com/bJk.gif" alt="codingimage" />
+ <img align="right" width =400
+    src="https://media1.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47el6u053eg302k8e9mi9fv1mjyrmc8jkly46vmqry&rid=giphy.gif&ct=g"
+    alt="monsursaleh"
+  />
+
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=monsursaleh&label=Profile%20views&color=0e75b6&style=flat"
@@ -12,9 +16,9 @@
   />
 </p>
 
-- 🔭 I’m currently working on **Full-Stack Car Database projects** - 🌱 I’m
-currently learning **React, Node, Php, Symfony, AWS** - - 📫 How to reach me
-**monsur.saleh@live.com**
+- 🔭 I’m currently working on **Full-Stack Car Database projects** 
+- 🌱 I’m currently learning **React, Node, Php, Symfony, AWS** 
+- 📫 How to reach me **monsur.saleh@live.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -78,7 +82,7 @@ currently learning **React, Node, Php, Symfony, AWS** - - 📫 How to reach me
   /></a>
 </p>
 
-<h3 align="left">Exploring Languages and Tools</h3>
+<h3 align="left"> Aiming to explore Languages and Tools</h3>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img
