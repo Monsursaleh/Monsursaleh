@@ -1,4 +1,4 @@
-<h5 align="center">Hi 👋, I'm Monsur Saleh from Helsinki, Finland.</h5>
+<h5 align="center">Hi 👋, I'm Monsur Saleh</h5>
 <h6 align="center">
   A passionate Full Stack Web Developer student,studying Heslsinki Business
   College who loves coding and wanted to bring best digital experiecne in web
