@@ -82,7 +82,7 @@
   /></a>
 </p>
 
-<h3 align="left"> Aiming to explore Languages and Tools</h3>
+<h3 align="left"> Aiming to explore  🚀 </h3>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img
